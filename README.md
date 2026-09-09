@@ -217,3 +217,16 @@ These outputs should be preserved exactly after the final experiment so that the
 ## Ethical boundary
 
 This software is for academic research only. It is not a medical device, screening service, crisis service, or clinical decision system. Predictions should never be used to diagnose an individual or determine treatment.
+
+Some project Samples are given Below :
+<img width="959" height="473" alt="Screenshot 2026-08-24 123319" src="https://github.com/user-attachments/assets/945257a7-b0ea-4d8e-b379-08209f1d3340" />
+<img width="956" height="467" alt="Screenshot 2026-08-24 123851" src="https://github.com/user-attachments/assets/93aeeb8f-bb9e-48ae-a5f6-3fba8ce7f4ea" />
+<img width="797" height="456" alt="Screenshot 2026-08-24 124107" src="https://github.com/user-attachments/assets/30f764bd-10f9-426d-9049-ab17116a2c8f" />
+<img width="808" height="368" alt="Screenshot 2026-08-24 124209" src="https://github.com/user-attachments/assets/b669289a-5f52-4d7c-b794-ba5ef5e2d87f" />
+<img width="767" height="453" alt="Screenshot 2026-08-24 124655" src="https://github.com/user-attachments/assets/848d9d9e-1e35-4320-9bc9-2b5dadb09e66" />
+<img width="739" height="423" alt="Screenshot 2026-08-24 124709" src="https://github.com/user-attachments/assets/30cea05f-b1d5-4977-9098-63591231308e" />
+<img width="704" height="257" alt="Screenshot 2026-08-24 124833" src="https://github.com/user-attachments/assets/fb2f40b3-515d-4577-b91d-8eb2415a22ca" />
+<img width="705" height="284" alt="Screenshot 2026-08-24 124854" src="https://github.com/user-attachments/assets/a46537a4-47b2-4d04-8f7e-350cad1e1e2f" />
+<img width="959" height="471" alt="Screenshot 2026-08-24 124943" src="https://github.com/user-attachments/assets/9278da7f-e71a-4927-b542-5b3541559dde" />
+
+
