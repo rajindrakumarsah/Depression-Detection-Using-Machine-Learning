@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/*
+!data/raw/.gitkeep
+artifacts/data/*.csv
+artifacts/data/*.joblib
+artifacts/data/*.json
+artifacts/model/*
+artifacts/results/*
